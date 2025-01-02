@@ -13,6 +13,8 @@ Para o projeto é utilizado o modelo pré-treinado InceptionV3 para classificar 
 
 ## Estrutura do Projeto
 
+Exemplo de estrutura para o projeto.
+
 ```
 ├── dataset
 │   ├── train
@@ -25,7 +27,7 @@ Para o projeto é utilizado o modelo pré-treinado InceptionV3 para classificar 
 │       ├── cats
 │       └── dogs
 ├── notebooks
-│   └── classificador_gatos_cachorros.ipynb
+│   └── Transfer_Learning_ML.ipynb
 └── README.md
 ```
 
